@@ -1,0 +1,6 @@
+{
+  "name": "AI Chef",
+  "description": "AI cooking assistant that turns food photos into beginner-friendly recipes with budget breakdowns, serving calculators, and step-by-step guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
